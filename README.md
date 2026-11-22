@@ -6,8 +6,8 @@ SQL data exploration and analytical querying projects completed on real-world pu
 
 | Project | Description |
 | :--- | :--- |
-| `NYC Public School Test Result Scores` | SQL analysis of NYC school SAT performance |
-| `Project: Exploring London's Travel Network` | SQL analysis of London TfL journey volumes (`tfl_journeys_final.csv`) |
+| `nyc_public_school_test_scores.sql` | SQL analysis of NYC school SAT performance |
+| `london_travel_network.sql` | SQL analysis of London TfL journey volumes (`tfl_journeys_final.csv`) |
 
 ## License
 
